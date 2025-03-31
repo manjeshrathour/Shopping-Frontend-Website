@@ -1,8 +1,9 @@
-Shopping Frontend Website
+<h1>Shopping Frontend Website</h1 >
 
-    A React-based e-commerce frontend with Redux for state management. This project provides a user-friendly interface for browsing products, managing the cart, and checking out.
+    A React-based e-commerce frontend with Redux for <br>state management. This project provides a <br>user-friendly interface for browsing products, <br>managing the cart, and checking out.
 
- Features
+
+ <h1>Features</h1>
 
     Product Listing - Browse through available products.
 
@@ -16,10 +17,13 @@ Shopping Frontend Website
 
     Axios for API Calls (if applicable) - Fetches product data.
 
- Tech Stack
+ <h1>Tech Stack</h1>
 
     Frontend: React.js, Redux, React Router, Tailwind CSS
 
     State Management: Redux Toolkit
 
     API Handling: Fetch API
+
+<h1>Author</h1 >
+    <h2>Manjesh Rathour</h2>

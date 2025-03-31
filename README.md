@@ -1,6 +1,6 @@
 <h1>Shopping Frontend Website</h1 >
 
-    A React-based e-commerce frontend with Redux for <br>state management. This project provides a <br>user-friendly interface for browsing products, <br>managing the cart, and checking out.
+    A React-based e-commerce frontend with Redux for state management. This project provides a user-friendly interface for browsing products, managing the cart, and checking out.
 
 
  <h1>Features</h1>
